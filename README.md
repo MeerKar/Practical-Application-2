@@ -24,6 +24,7 @@ It depends on whether the cell is a germ cell or a somatic cell.
 <img width="1142" alt="image" src="https://github.com/user-attachments/assets/a88cc711-b632-4476-91ae-4414f409b388" />
 
 
+
 ## Data Understanding
 
 The first thing that was apparent from the provided data was that it was not clean, it had missing values and some of the values were not realistic for used cars, for example, odometer with zero and single digit values; price with zero and single digits values.
@@ -45,6 +46,9 @@ Summary of the Data Preparation is as follows:
 . Review and remove the other factors (i.e., state, paint color, manufacturer, transmission etc.) and check if they have an impact on car price based on the provided data
 
 . Filtering the data based on year on manufacture = 1990 as the number of vehicles before 1990 were very low
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/d75be7f5-553f-4aa0-8024-531a0d285179" />
+
 
 
 
